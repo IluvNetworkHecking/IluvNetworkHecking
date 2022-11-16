@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @IluvNetworkHecking
+- 👀 I’m interested in coding/development and games
+- 🌱 I’m currently learning java & c++
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me email: haseenslaibi@hotmail.com & discord user is: Benoxa👑#7139
+- 🎧music genre: phonk music
+- 🐱loves cats
+- 🌎 lives in canada, windsor
+- 🎮favorite game is roblox
+- 🔰has 3 brothers 1 sister 1 mom & 1 dad
+- 👔works in game development and web development
