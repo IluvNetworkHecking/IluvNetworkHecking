@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IluvNetworkHecking
 - 👀 I’m interested in coding/development and games
-- 🌱 I’m currently learning java & c++
+- 🌱 I’m currently learning lua, javascript, c++, c#, css, html, python, mysql and sql injection, and ethical hacking
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me email: haseenslaibi@hotmail.com & discord user is: Benoxa👑#7139
 - 🎧music genre: phonk music
@@ -8,4 +8,4 @@
 - 🌎 lives in canada, windsor
 - 🎮favorite game is roblox
 - 🔰has 3 brothers 1 sister 1 mom & 1 dad
-- 👔works in game development and web development
+- 👔works in game development and ethical hacking plus web design and github scripting...
